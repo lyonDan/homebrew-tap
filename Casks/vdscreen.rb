@@ -1,8 +1,8 @@
 cask "vdscreen" do
-  version "1.3.3"
-  sha256 "1b20653d3af38c4d1c04b807ff7b0fd337c36017bcd58e8abcdff29d368d561b"
+  version "1.3.4"
+  sha256 "1a7cea221ebbb3035607ae4d38bd535998c0ffca3226d1857f0b51bc4e77caa8"
 
-  url "https://github.com/lyonDan/vdscreen/releases/download/v1.3.3/VDScreenBar-1.3.3-arm64.zip"
+  url "https://github.com/lyonDan/vdscreen/releases/download/v1.3.4/VDScreenBar-1.3.4-arm64.zip"
   name "VDScreenBar"
   desc "Create HiDPI virtual displays on macOS (CLI and menu bar app)"
   homepage "https://github.com/lyonDan/vdscreen"

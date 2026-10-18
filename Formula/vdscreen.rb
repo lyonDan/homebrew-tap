@@ -1,9 +1,9 @@
 class Vdscreen < Formula
   desc "Create HiDPI virtual displays on macOS (CLI and menu bar app)"
   homepage "https://github.com/lyonDan/vdscreen"
-  version "1.3.3"
-  url "https://github.com/lyonDan/vdscreen/releases/download/v1.3.3/VDScreenBar-1.3.3-arm64.zip"
-  sha256 "1b20653d3af38c4d1c04b807ff7b0fd337c36017bcd58e8abcdff29d368d561b"
+  version "1.3.4"
+  url "https://github.com/lyonDan/vdscreen/releases/download/v1.3.4/VDScreenBar-1.3.4-arm64.zip"
+  sha256 "1a7cea221ebbb3035607ae4d38bd535998c0ffca3226d1857f0b51bc4e77caa8"
   license "MIT"
 
   depends_on :macos
